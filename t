@@ -7,5 +7,6 @@
  
     <body>
         <h3>Titre de cette page</h3>
+        <p> blabla </p>
     </body>
 </html>
